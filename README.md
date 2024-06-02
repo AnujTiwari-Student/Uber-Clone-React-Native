@@ -9,7 +9,7 @@ Developed an Uber clone using React Native, integrating Google APIs for distance
   <img src="https://github.com/ANUJAVENGERS/Uber-Clone-React-Native/assets/58434371/2fc20fb7-1e00-4ec4-a4de-05aab1dc1924" width="200" height="auto">
 </p>
 <p align="center">
-  <img src="github.com/ANUJAVENGERS/Uber-Clone-React-Native/assets/58434371/4c01c3db-fcef-4933-ad1d-d5664a96f06b" width="200" height="auto">
+  <img src="https://github.com/ANUJAVENGERS/Uber-Clone-React-Native/assets/58434371/8997032b-f0bd-4c9a-acd7-c4f73111ef01" width="200" height="auto">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ANUJAVENGERS/Uber-Clone-React-Native/assets/58434371/8408ef85-ab96-44f7-a22c-00de401bcf03" width="200" height="auto">
   &nbsp;&nbsp;&nbsp;&nbsp;
